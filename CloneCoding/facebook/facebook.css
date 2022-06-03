@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 7px 13px 0px 13px;
+}
+
+.input {
+    width: 240px;
+    height: 40px;
+    background-color: #F0F2F5;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #F0F2F5;
+    font-size: .9375rem;
+    padding-left: 15px;
+    margin-left: 8px;
+    outline: none;
+}
+
+.headerCenterContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerCenter {
+    margin: 0px 50px 0px 50px;
+}
+
+.headerLeftContainer {
+    display: flex;
+    top: 0;
+    left: 0;
+    padding: 0px;
+    margin-bottom: 2px;
+}
+
+
+header {
+    border-bottom: 1px solid #dadce0;
+    background-color: white;
+}
+
+body {
+    background-color: #F0F2F5;
+}
+
+.navIconContainer {
+    margin-top: 15px;
+    margin-left: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.navIcon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px;
+}
+
+.body2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+section {
+    margin-top: 20px;
+    padding-left: 210px;
+}
+
+.story {
+    border-radius: 7px;
+}
+
+.post {
+    background-color: white;
+    border-radius: 7px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.postUpload {
+    display: flex;
+    align-items: center;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #dadce0;
+}
+
+.postProfile {
+    border-radius: 50px;
+}
+
+.postInput {
+    width: 590px;
+    height: 40px;
+    background-color: #F0F2F5;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #F0F2F5;
+    font-size: .9390rem;
+    padding-left: 15px;
+    margin-left: 8px;
+    outline: none;
+}
+
+.postIconContainer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.postIcon {
+    display: flex;
+    align-items: center;
+}
+
+span {
+    margin-left: 8px;
+}
+
+.birthday {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid;
+    border-color: #c5c7cc;
+}
+
+.birthdayIcon {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    margin-top: 15px;
+    margin-left: 0;
+}
+
+.contactContainer{
+    margin-left: 27px;
+}
+
+.contact{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30px;
+}
+
+.contactIcon{
+    margin-left: 10px;
+}
+
+.friends{
+    margin-top: 20px;
+}
+
+.friend{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
