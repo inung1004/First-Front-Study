@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'WooridaumR';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2205@1.0/WooridaumR.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+}
+
+header {
+    font-family: 'WooridaumR';
+    font-size: 70px;
+    height: 94px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #432323;
+    background-color: #E0E0E0;
+}
+
+section{
+    background-color: #84D8B7;
+
+}
